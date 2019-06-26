@@ -4,4 +4,4 @@
 
 2. from the root directory in cli type `npm install`
 
-3. after 2 finish, to run the project type `npm run` 
+3. after 2 finish, to run the project type `npm start` 
